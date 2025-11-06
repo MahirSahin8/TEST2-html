@@ -1,0 +1,6 @@
+[
+    {"course": "Web Development", "credits": 4, "instructor": "Alice Brown","Hours":15},
+    {"course": "Data Structures", "credits": 3, "instructor": "David Green","Hours":30},
+    {"course": "Networking Basics", "credits": 3, "instructor": "Emily Stone","Hours":15},
+    {"course": "Machine Learning", "credits": 4, "instructor": "Michael Lee","Hours":15}
+]
